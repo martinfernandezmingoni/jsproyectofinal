@@ -1,0 +1,52 @@
+[
+    {
+        "categoria": "Facil",
+        "pregunta": "¿Que instrumento toca Lisa Simpson?",
+        "respuesta": "Saxofon",
+        "incorrecta1": "Guitarra",
+        "incorrecta2": "Violin",
+        "incorrecta3": "Piano",
+        "imagen": "../img/lisasimpson.jpg",
+        "object_fit": "cover"
+    },
+    {
+        "categoria": "Facil",
+        "pregunta": "¿Como se llaman las hermanas de Marge?",
+        "respuesta": "Paty y Selma",
+        "incorrecta1": "Venus y Serena",
+        "incorrecta2": "Flor y Jazmin",
+        "incorrecta3": "Edna y Mona",
+        "imagen": "../img/selmaypaty.jpg",
+        "object_fit": "cover"
+    },
+    {
+        "categoria": "Facil",
+        "pregunta": "¿Como se llama el hermano gemelo de Bart",
+        "respuesta": "Hugo",
+        "incorrecta1": "Bort",
+        "incorrecta2": "Roberto",
+        "incorrecta3": "Burt",
+        "imagen": "../img/bartyhugo.jpeg",
+        "object_fit": "cover"
+    },
+    {
+        "categoria": "Facil",
+        "pregunta": "¿Que apellido le sugieren a la familia, cuando quieren escaparse de Bob Patiño?",
+        "respuesta": "Thompson",
+        "incorrecta1": "Jhonson",
+        "incorrecta2": "Wilson",
+        "incorrecta3": "Jackson",
+        "imagen": "../img/thompson.jpg",
+        "object_fit": "cover"
+    },
+    {
+        "categoria": "Facil",
+        "pregunta": "Como se llama la banda de musica, que compone a Homero, Bartney, Skiner y Apu",
+        "respuesta": "Los Borbotones",
+        "incorrecta1": "El apuesto Homero mas tres",
+        "incorrecta2": "Los Beatles",
+        "incorrecta3": "Los Botones",
+        "imagen": "../img/borbotones.jpeg",
+        "object_fit": "cover"
+    }
+]
